@@ -1,4 +1,4 @@
-Directory Brute-Forcing Tool
+##Directory Brute-Forcing Tool##
 This tool is designed for discovering directories on a web server through brute-forcing. It allows you to specify a target URL and either use a custom wordlist or a predefined local wordlist for directory discovery. The tool utilizes concurrent HTTP requests to improve performance and includes logging functionality to track discovered directories.
 
 Features
@@ -14,11 +14,11 @@ Installation:
 Clone the repository:
 bash
 Copier le code
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/rozoxc/r0z0_brute_force.git
 Navigate to the project directory:
 bash
 Copier le code
-cd your-repository
+cd r0z0_brute_force.git
 Setup:
 
 Install dependencies:
